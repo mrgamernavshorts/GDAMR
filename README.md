@@ -1,4 +1,4 @@
-GD account manager recreation!
+GD account management recreation!
 
 my recreation:https://mrgamernavshorts.github.io/GDAMR/
 
